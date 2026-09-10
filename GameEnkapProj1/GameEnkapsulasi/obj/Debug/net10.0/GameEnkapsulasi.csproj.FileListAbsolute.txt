@@ -1,0 +1,14 @@
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\bin\Debug\net10.0\GameEnkapsulasi.exe
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\bin\Debug\net10.0\GameEnkapsulasi.deps.json
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\bin\Debug\net10.0\GameEnkapsulasi.runtimeconfig.json
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\bin\Debug\net10.0\GameEnkapsulasi.dll
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\bin\Debug\net10.0\GameEnkapsulasi.pdb
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.AssemblyInfoInputs.cache
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.AssemblyInfo.cs
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.csproj.CoreCompileInputs.cache
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.dll
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\refint\GameEnkapsulasi.dll
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.pdb
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\GameEnkapsulasi.genruntimeconfig.cache
+C:\Revi Adit\GameEnkapProj1\GameEnkapsulasi\obj\Debug\net10.0\ref\GameEnkapsulasi.dll
