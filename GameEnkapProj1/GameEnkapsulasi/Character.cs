@@ -4,14 +4,11 @@ namespace GameEncapsulationDemo
 {
     public class Character
     {
-        // Atribut dengan berbagai access modifier
         public string characterID = "";
         public string characterName = "";
         internal string characterClass = "";
         public float health = 0;
         public int level = 0;
-
-        // Method
         public void Start()
         {
             level = 1;
@@ -23,7 +20,6 @@ namespace GameEncapsulationDemo
         {
             level++;
             Console.WriteLine($"{characterName} naik level! Level sekarang: {level}");
-            // Tambah health maksimal, dll.
         }
 
         public void TakeDamage(float dmg)
