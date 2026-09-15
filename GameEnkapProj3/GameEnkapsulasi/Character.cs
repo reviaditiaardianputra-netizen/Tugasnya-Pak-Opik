@@ -4,7 +4,6 @@ namespace GameEnkapsulasi1
 {
     public class Character
     {
-        // Atribut dengan berbagai access modifier
         public string characterID = "";
         public string characterName = "";
         public string characterClass = "";
@@ -63,7 +62,6 @@ namespace GameEnkapsulasi1
         {
             level++;
             Console.WriteLine($"{characterName} naik level! Level sekarang: {level}");
-            // Tambah health maksimal, dll.
         }
 
         public void TakeDamage(float dmg)
